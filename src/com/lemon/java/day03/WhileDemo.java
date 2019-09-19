@@ -14,6 +14,7 @@ package com.lemon.java.day03;
        常见的条件控制语句：
                switch语句；
                         switch(变量a){ //变量a符合哪个条件就执行哪个条件后的代码，break结束后面的执行，default都不符合时执行
+                        //switch不支持long类型的变量
                         case a:
                                ...;
                                break;
