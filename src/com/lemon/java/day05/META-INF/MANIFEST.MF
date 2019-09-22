@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.lemon.java.day05.Calculator
+Class-Path: .; %JAVA_HOME%\lib\dt.jar; %JAVA_HOME%\lib\tools.jar;
+
